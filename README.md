@@ -1,6 +1,6 @@
 # Amdari_assessment
 
-The model is stored as a pickel file with the name rf_fraud_detection_pipeline.pkl
+The model is stored as a pickel file with the name rf_fraud_detection_pipeline.pkl.
 I used FastAPI for the deployment even though I can also work with strealit
 
 Set up
